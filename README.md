@@ -1,6 +1,7 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=MUSESTAR-Official&show_icons=true&count_private=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUSESTAR-Official)
 
 ---
 
