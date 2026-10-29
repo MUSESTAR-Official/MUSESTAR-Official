@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="144" viewBox="0 0 960 144" role="img" aria-labelledby="title desc">
+<title id="title">谢谢你，来过我的小宇宙。</title><desc id="desc">MUSESTAR · 始于一份热爱</desc>
+<defs>
+  <linearGradient id="wash" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eae3f7"/></linearGradient>
+  <linearGradient id="brand"><stop stop-color="#7651d8"/><stop offset="1" stop-color="#d69ded"/></linearGradient>
+  <clipPath id="card"><rect x="1" y="1" width="958" height="142" rx="24"/></clipPath>
+</defs>
+<style>text{font-family:'Segoe UI','Microsoft YaHei','Noto Sans CJK SC',sans-serif}.bg{fill:#f3f1f8;color:#f3f1f8}.surface{fill:#ffffff;color:#ffffff}.raised{fill:#eae6f3;color:#eae6f3}.text{fill:#292330;color:#292330}.muted{fill:#766e84;color:#766e84}.accent{fill:#7651d8;color:#7651d8}.line{fill:#dcd3ed;color:#dcd3ed}.soft{fill:#eae3f7;color:#eae3f7}</style>
+<rect x="1" y="1" width="958" height="142" rx="24" fill="#ffffff" stroke="#dcd3ed"/>
+<g transform="translate(467 23) scale(1.0833333333333333)" class="accent" opacity="1"><path d="M12 2 21 18H3ZM12 22 3 6h18Z" fill="none" stroke="currentColor" stroke-width="1"/></g><text x="480" y="80" font-size="22" class="text" font-weight="400" text-anchor="middle">谢谢你，来过我的小宇宙。</text><text x="480" y="112" font-size="10" class="muted" font-weight="400" text-anchor="middle" letter-spacing="2">MUSESTAR  /  KEEP A LITTLE STARDUST</text>
+</svg>

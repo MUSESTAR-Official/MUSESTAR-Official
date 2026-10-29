@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="32" viewBox="0 0 846 32" role="img" aria-labelledby="title">
+<title id="title">GitHub Stats</title>
+<defs><linearGradient id="divider"><stop stop-color="#b18aff" stop-opacity=".4"/><stop offset=".7" stop-color="#b18aff" stop-opacity=".08"/><stop offset="1" stop-color="#b18aff" stop-opacity="0"/></linearGradient></defs>
+<g transform="translate(1 5) scale(.833333)" fill="none" stroke="currentColor" color="#b18aff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h16M7 16v-4m5 4V5m5 11V9"/></g>
+<text x="31" y="24" fill="#b18aff" font-family="'Microsoft YaHei','Noto Sans CJK SC','PingFang SC',sans-serif" font-size="21" font-weight="700">GitHub Stats</text>
+<rect x="185" y="16" width="661" height="1" fill="url(#divider)"/>
+</svg>
