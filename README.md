@@ -50,7 +50,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://moe-counter.yumetsuki.moe/@musestar-official?name=musestar-official&amp;theme=asoul&amp;padding=10&amp;offset=0&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="MUSESTAR 主页访问计数 · A-SOUL" width="600">
+  <img src="https://moe-counter.yumetsuki.moe/@musestar-official?name=musestar-official&amp;theme=asoul&amp;padding=10&amp;offset=0&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="MUSESTAR 主页访问计数 · A-SOUL" width="400">
 </p>
 
 <picture>
